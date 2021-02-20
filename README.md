@@ -2,8 +2,7 @@
 
 <!--
 **francis04j/francis04j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on designing and building APIs exposed via REST and gPRC endpoints
 - 🌱 I’m currently learning how to build a mobile game
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter (@fran6_ca)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a god
--->
+
