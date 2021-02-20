@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on designing and building APIs exposed via REST and gPRC endpoints
 - 🌱 I’m currently learning how to build a mobile game
 - 👯 I’m looking to collaborate on my game idea
-- 🤔 I’m looking for help with anything
+- 🤔 I can offer help with anything
 - 💬 Ask me about backend development
 - 📫 How to reach me: Twitter (@fran6_ca)
 - 😄 Pronouns: He
